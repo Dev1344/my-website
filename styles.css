@@ -60,20 +60,16 @@ nav a {
     padding: 100px 0;
 }
 
-.hero-content {
-    background: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
-    padding: 20px;
-    border-radius: 10px;
-}
-
 .hero h2 {
     font-size: 36px;
     margin-bottom: 20px;
+    color: #fff; /* Text color changed to white for visibility */
 }
 
 .hero p {
     font-size: 18px;
     margin-bottom: 30px;
+    color: #fff; /* Text color changed to white for visibility */
 }
 
 .btn {
